@@ -6,7 +6,6 @@ import android.app.NotificationManager
 import android.content.Context
 import android.os.Build
 import androidx.core.app.NotificationCompat
-import io.github.mrzagreed.stainsoftime.R
 import io.github.mrzagreed.stainsoftime.core.state.TetherRuntimeState
 
 class ServiceNotification(private val context: Context) {
